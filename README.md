@@ -5,9 +5,8 @@
 
 <details>
 <summary>Paper list:</summary>
-1.(2016) (RNN) [Deep LSTM + NTU RGB+D dataset(https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html)
-
-2.(2016) (RNN) [Part-Aware LSTM](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html) (They introduced 2 methods and dataset - NTU RGB+D)
+  
+1.(2016) (RNN) [Deep LSTM + Part-Aware LSTM + NTU RGB+D dataset](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html)
 
 3.(2016) (RNN) [Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_50)
 
