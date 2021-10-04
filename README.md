@@ -1,7 +1,7 @@
-# Action-Activite-Recognition-and-Abnormal-Behaviour-Detection
+## Action-Activite-Recognition-and-Abnormal-Behaviour-Detection
 
 
-# (year) (type) (name) (URL) (comment)
+## (year) (type) (name) (URL) (comment)
 
 (2016) (RNN) Deep LSTM: https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html (They introduced 2 methods and dataset - NTU RGB+D)
 
@@ -37,7 +37,8 @@
 
 This year WACV had only one paper, but not such a good one as those previous ones that I referenced. CVPR 2021 hadn't works on skeleton-based Action Recognition, and ICCV 2021 is next month, probably some works there, let's see.
 
-# Datasets:
+
+## Skeleton-based Datasets:
 
 (2013) Human3.6M - 2-dimensional space, 10 action classes, smaller than the next ones, human labelled: https://ieeexplore.ieee.org/abstract/document/6682899
 
@@ -46,4 +47,10 @@ This year WACV had only one paper, but not such a good one as those previous one
 (2017) Kinetics-Skeleton - 2-dimensional space, 400 action classes, large-scale, pose estimated: https://arxiv.org/abs/1705.06950 (original RGB videos)
 
 (2019) NTU-120 RGB+D - 3-dimensional space 120 action classes, large scale, human labelled: https://ieeexplore.ieee.org/abstract/document/8713892
+
+## RGB video-based Datasets:
+
+(2014) UCF Sports Action Data Set - 150 clips with mean length of 6sec, 10 actions, resolution 720x480 https://www.crcv.ucf.edu/data/UCF_Sports_Action.php
+
+(2019) HOLLYWOOD2 - 3669 video clips, 12 action classes and 10 classes of scenes, (20hours from 69 movies) https://www.di.ens.fr/~laptev/actions/hollywood2/
 
