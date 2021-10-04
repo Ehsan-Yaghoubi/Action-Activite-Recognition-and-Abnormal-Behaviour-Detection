@@ -41,8 +41,32 @@
 16.(2020) (GCN) [Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Semantics-Guided_Neural_Networks_for_Efficient_Skeleton-Based_Human_Action_Recognition_CVPR_2020_paper.html)
   
 (2021) () [Revisiting Skeleton-based Action Recognition](https://arxiv.org/abs/2104.13586) [github](https://github.com/open-mmlab/mmaction2/blob/master/configs/skeleton/posec3d/README.md)
+  
+(2021) () [Memory Attention Networks for Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/abstract/document/9378801)
 
+(2021) (Transformer) [Spatial Temporal Transformer Network for Skeleton-Based Action Recognition](https://link.springer.com/chapter/10.1007/978-3-030-68796-0_50)
 </details>
+
+(2021) () [Quo Vadis, Skeleton Action Recognition?](https://link.springer.com/article/10.1007/s11263-021-01470-y)
+
+(2021) (GCN) [Symbiotic Graph Neural Networks for 3D Skeleton-based Human Action Recognition and Motion Prediction](https://ieeexplore.ieee.org/abstract/document/9334430/)
+
+(2021) () [Tripool: Graph triplet pooling for 3D skeleton-based action recognition](https://www.sciencedirect.com/science/article/pii/S0031320321001084)
+
+(2021) (GCN) [Spatial Temporal Graph Deconvolutional Network for Skeleton-Based Human Action Recognition](https://ieeexplore.ieee.org/abstract/document/9314910)
+
+(2021) (GCN) [Skeleton-based action recognition using sparse spatio-temporal GCN with edge effective resistance](https://www.sciencedirect.com/science/article/pii/S0925231220317094)
+
+(2021) (GCN) [Predictively encoded graph convolutional network for noise-robust skeleton-based action recognition](https://link.springer.com/article/10.1007/s10489-021-02487-z)
+
+(2021) () [Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/abstract/document/9351789/)
+
+(2021) () [Symmetrical Enhanced Fusion Network for Skeleton-based Action Recognition](https://ieeexplore.ieee.org/abstract/document/9319717)
+
+(2021) (GCN) [Temporal Attention-Augmented Graph Convolutional Network for Efficient Skeleton-Based Human Action Recognition](https://ieeexplore.ieee.org/abstract/document/9412091)
+
+(2021) () [Rethinking the ST-GCNs for 3D skeleton-based human action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221007153)
+
 
 <details>
 <summary>Datasets:</summary>
