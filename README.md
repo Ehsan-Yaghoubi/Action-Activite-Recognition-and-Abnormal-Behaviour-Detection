@@ -43,7 +43,8 @@
 
 <details>
 <summary>Datasets:</summary>
-## Skeleton-based Datasets:
+  
+### Skeleton-based Datasets:
 
 (2013) [Human3.6M](https://ieeexplore.ieee.org/abstract/document/6682899), 2-dimensional space, 10 action classes, smaller than the next ones, human labelled.
 
@@ -53,7 +54,7 @@
 
 (2019) [NTU-120 RGB+D](https://ieeexplore.ieee.org/abstract/document/8713892), 3-dimensional space 120 action classes, large scale, human labelled. 
 
-## RGB video-based Datasets:
+### RGB video-based Datasets:
 
 (2014) [UCF Sports Action Data Set](https://www.crcv.ucf.edu/data/UCF_Sports_Action.php) - 150 clips with mean length of 6sec, 10 actions, resolution 720x480 
 
