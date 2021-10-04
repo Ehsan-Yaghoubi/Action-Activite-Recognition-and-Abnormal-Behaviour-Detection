@@ -1,4 +1,4 @@
-## Skeleton based action/activity recognition or abnormal behaviour detection
+## Skeleton based action/activity recognition and abnormal behaviour detection methods
 
 
 ## (year) (type) (name) (URL) (comment)
