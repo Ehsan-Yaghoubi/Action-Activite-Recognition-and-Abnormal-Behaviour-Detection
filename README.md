@@ -5,7 +5,7 @@
 
 <details>
 <summary>Paper list:</summary>
-1.(2016) (RNN) [Deep LSTM + NTU RGB+D dataset](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html)
+1.(2016) (RNN) [Deep LSTM + NTU RGB+D dataset(https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html)
 
 2.(2016) (RNN) [Part-Aware LSTM](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html) (They introduced 2 methods and dataset - NTU RGB+D)
 
