@@ -1,8 +1,11 @@
 ## Skeleton based action/activity recognition and abnormal behaviour detection methods
 
-## Open source softwares
-[MMPose](https://github.com/open-mmlab/mmpose): an open-source toolbox for pose estimation based on PyTorch
-
+<details>
+<summary>Open source softwares: (click to expand!)</summary>
+1.[MMPose](https://github.com/open-mmlab/mmpose): an open-source toolbox for pose estimation based on PyTorch
+</details>
+  
+  
 <details>
 <summary>Paper list:</summary>
   
@@ -12,7 +15,7 @@
 
 4.(2017) (RNN) [View Adaptive RNN for High Performance Human Action Recognition From Skeleton Data](https://openaccess.thecvf.com/content_iccv_2017/html/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.html)
 
-5.(2017) (CNN) [Two-Stream 3D Convolutional Neural Network for Skeleton-Based Action Recognition(https://arxiv.org/abs/1705.08106)
+5.(2017) (CNN) [Two-Stream 3D Convolutional Neural Network for Skeleton-Based Action Recognition](https://arxiv.org/abs/1705.08106)
 
 6.(2017) (CNN) [Interpretable 3D Human Action Analysis With Temporal Convolutional Networks](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w20/html/Kim_Interpretable_3D_Human_CVPR_2017_paper.html)
 
@@ -38,6 +41,8 @@
 
 </details>
 
+<details>
+<summary>Datasets:</summary>
 ## Skeleton-based Datasets:
 
 (2013) [Human3.6M](https://ieeexplore.ieee.org/abstract/document/6682899), 2-dimensional space, 10 action classes, smaller than the next ones, human labelled.
@@ -54,3 +59,4 @@
 
 (2019) [HOLLYWOOD2](https://www.di.ens.fr/~laptev/actions/hollywood2/) - 3669 video clips, 12 action classes and 10 classes of scenes, (20hours from 69 movies) 
 
+</details>
