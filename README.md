@@ -1,4 +1,4 @@
-## Action-Activite-Recognition-and-Abnormal-Behaviour-Detection
+## Action/Activity-Recognition-and-Abnormal-Behaviour-Detection
 
 
 ## (year) (type) (name) (URL) (comment)
