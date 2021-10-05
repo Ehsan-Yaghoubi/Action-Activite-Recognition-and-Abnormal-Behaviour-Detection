@@ -76,7 +76,7 @@
   
   (ICPR2021) (Transformers) [Skeleton-based Action Recognition via Spatial and Temporal Transformer Networks](https://arxiv.org/pdf/2008.07404v4.pdf); [[code]](https://github.com/Chiaraplizz/ST-TR).
   
-  () () [Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition](https://arxiv.org/pdf/2010.09978v1.pdf); [[official code]](https://github.com/yfsong0709/ResGCNv1); [[another code]](https://github.com/yfsong0709/EfficientGCNv1); [[another code]](https://github.com/Number9929/Gabriel_Project_ResGCNv1).
+  (ACM2020) (GCN) [Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition](https://arxiv.org/pdf/2010.09978v1.pdf); [[official code]](https://github.com/yfsong0709/ResGCNv1); [[another code]](https://github.com/yfsong0709/EfficientGCNv1); [[another code]](https://github.com/Number9929/Gabriel_Project_ResGCNv1).
   
   (AAAI2020) () [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://arxiv.org/pdf/1911.04131v1.pdf); [[code]](https://github.com/xiaoiker/GCN-NAS).
   
@@ -84,38 +84,6 @@
   
   (arXiv 2020) () [Predictively Encoded Graph Convolutional Network for Noise-Robust Skeleton-based Action Recognition](https://arxiv.org/pdf/2003.07514v1.pdf); [[code]](https://github.com/andreYoo/PeGCNs).
   
-  
-  1.(2016) (RNN) [Deep LSTM + Part-Aware LSTM + NTU RGB+D dataset](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html)
-
-  3.(2016) (RNN) [Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_50)
-
-  4.(2017) (RNN) [View Adaptive RNN for High Performance Human Action Recognition From Skeleton Data](https://openaccess.thecvf.com/content_iccv_2017/html/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.html)
-
-  5.(2017) (CNN) [Two-Stream 3D Convolutional Neural Network for Skeleton-Based Action Recognition](https://arxiv.org/abs/1705.08106)
-
-  6.(2017) (CNN) [Interpretable 3D Human Action Analysis With Temporal Convolutional Networks](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w20/html/Kim_Interpretable_3D_Human_CVPR_2017_paper.html)
-
-  7.(2017) (CNN) [Enhanced skeleton visualization for view invariant human action recognition](https://www.sciencedirect.com/science/article/pii/S0031320317300936)
-
-
-
-  
-  9.(2018) (GCN) [Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_cvpr_2018/html/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.html)
-
-  10.(2019) (GCN) [Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Two-Stream_Adaptive_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html)
-
-  11.(2019) (GCN) [Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Actional-Structural_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html)
-
-  12.(2019) (GCN) [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/html/Si_An_Attention_Enhanced_Graph_Convolutional_LSTM_Network_for_Skeleton-Based_Action_CVPR_2019_paper.html)
-
-  13.(2019) (GCN) [Skeleton-Based Action Recognition With Directed Graph Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.html)
-
-  15.(2020) (GCN) [Context Aware Graph Convolution for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Context_Aware_Graph_Convolution_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.html)
-
-  16.(2020) (GCN) [Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Semantics-Guided_Neural_Networks_for_Efficient_Skeleton-Based_Human_Action_Recognition_CVPR_2020_paper.html)
-
-
-
   (2021) () [Memory Attention Networks for Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/abstract/document/9378801)
 
   (2021) (Transformer) [Spatial Temporal Transformer Network for Skeleton-Based Action Recognition](https://link.springer.com/chapter/10.1007/978-3-030-68796-0_50)
@@ -136,7 +104,32 @@
 
   (2021) (GCN) [Temporal Attention-Augmented Graph Convolutional Network for Efficient Skeleton-Based Human Action Recognition](https://ieeexplore.ieee.org/abstract/document/9412091)
 
+  (2020) (GCN) [Context Aware Graph Convolution for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Context_Aware_Graph_Convolution_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.html)
 
+  (2020) (GCN) [Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Semantics-Guided_Neural_Networks_for_Efficient_Skeleton-Based_Human_Action_Recognition_CVPR_2020_paper.html)
+
+
+  (2019) (GCN) [Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Two-Stream_Adaptive_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html)
+
+  (2019) (GCN) [Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Actional-Structural_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html)
+
+  (2019) (GCN) [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/html/Si_An_Attention_Enhanced_Graph_Convolutional_LSTM_Network_for_Skeleton-Based_Action_CVPR_2019_paper.html)
+
+  (2019) (GCN) [Skeleton-Based Action Recognition With Directed Graph Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.html)
+
+  (2018) (GCN) [Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_cvpr_2018/html/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.html)
+
+  (2017) (RNN) [View Adaptive RNN for High Performance Human Action Recognition From Skeleton Data](https://openaccess.thecvf.com/content_iccv_2017/html/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.html)
+
+  (2017) (CNN) [Two-Stream 3D Convolutional Neural Network for Skeleton-Based Action Recognition](https://arxiv.org/abs/1705.08106)
+
+  (2017) (CNN) [Interpretable 3D Human Action Analysis With Temporal Convolutional Networks](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w20/html/Kim_Interpretable_3D_Human_CVPR_2017_paper.html)
+
+  (2017) (CNN) [Enhanced skeleton visualization for view invariant human action recognition](https://www.sciencedirect.com/science/article/pii/S0031320317300936)
+
+  (2016) (RNN) [Deep LSTM + Part-Aware LSTM + NTU RGB+D dataset](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html)
+
+  (2016) (RNN) [Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_50)
   
 </details>
 
