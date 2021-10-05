@@ -1,7 +1,8 @@
 ### Skeleton based action/activity recognition and abnormal behaviour detection methods
 
 <details>
-<summary>Open source softwares: (click to expand!)</summary>
+  
+<summary>Open source softwares for pose estimation: (click to expand!)</summary>
   
   [MMPose](https://github.com/open-mmlab/mmpose): an open-source toolbox for pose estimation based on PyTorch.
   
