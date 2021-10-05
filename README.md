@@ -78,8 +78,6 @@
   
   () () [Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition](https://arxiv.org/pdf/2010.09978v1.pdf); [[official code]](https://github.com/yfsong0709/ResGCNv1); [[another code]](https://github.com/yfsong0709/EfficientGCNv1); [[another code]](https://github.com/Number9929/Gabriel_Project_ResGCNv1).
   
-  () () [Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition](https://arxiv.org/pdf/2106.15125v1.pdf); [[official code]](https://github.com/yfsong0709/EfficientGCNv1); [[another code]](https://github.com/yfsong0709/ResGCNv1).
-  
   (AAAI2020) () [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://arxiv.org/pdf/1911.04131v1.pdf); [[code]](https://github.com/xiaoiker/GCN-NAS).
   
   (2021) () [Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition](https://arxiv.org/pdf/2106.15125v1.pdf); [[official code]](https://github.com/yfsong0709/EfficientGCNv1); [[another code]](https://github.com/yfsong0709/ResGCNv1).
