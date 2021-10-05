@@ -59,7 +59,37 @@
   
   (2021) () [Revisiting Skeleton-based Action Recognition](https://arxiv.org/abs/2104.13586); [code](https://github.com/open-mmlab/mmaction2/blob/master/configs/skeleton/posec3d/README.md)
   
-  (2018) (GCN) [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455); [code](https://github.com/yysijie/st-gcn): ST-GCN has transferred to [MMSkeleton](https://github.com/open-mmlab/mmskeleton), and keep on developing for skeleton-based human understanding. THe paper [Rethinking the ST-GCNs for 3D skeleton-based human action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221007153) published in Neurocomputing works on ST-GCN.
+  (2018) (GCN) [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455); [code](https://github.com/yysijie/st-gcn): ST-GCN has transferred to [MMSkeleton](https://github.com/open-mmlab/mmskeleton), and keep on developing for skeleton-based human understanding. The paper [Rethinking the ST-GCNs for 3D skeleton-based human action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221007153) published in Neurocomputing works on ST-GCN.
+  
+  (2021) (GCN) [Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition](https://arxiv.org/abs/2107.12213); [[code]](https://github.com/Uason-Chen/CTR-GCN).
+  
+  () () []().
+  
+  () () []().
+  
+  () () []().
+  
+  () () []().
+  
+  () () []().
+  
+  () () []().
+  
+  () () []().
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   1.(2016) (RNN) [Deep LSTM + Part-Aware LSTM + NTU RGB+D dataset](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html)
 
