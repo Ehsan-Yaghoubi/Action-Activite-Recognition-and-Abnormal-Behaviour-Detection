@@ -57,38 +57,36 @@
 <details>
 <summary>Skeleton-based action recognition paper list:</summary>
   
-  (2021) () [Revisiting Skeleton-based Action Recognition](https://arxiv.org/abs/2104.13586); [code](https://github.com/open-mmlab/mmaction2/blob/master/configs/skeleton/posec3d/README.md)
+  (2021) () [Revisiting Skeleton-based Action Recognition](https://arxiv.org/abs/2104.13586); [[code]](https://github.com/open-mmlab/mmaction2/blob/master/configs/skeleton/posec3d/README.md)
   
-  (2018) (GCN) [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455); [code](https://github.com/yysijie/st-gcn): ST-GCN has transferred to [MMSkeleton](https://github.com/open-mmlab/mmskeleton), and keep on developing for skeleton-based human understanding. The paper [Rethinking the ST-GCNs for 3D skeleton-based human action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221007153) published in Neurocomputing works on ST-GCN.
+  (2018) (GCN) [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455); [[code]](https://github.com/yysijie/st-gcn): ST-GCN has transferred to [MMSkeleton](https://github.com/open-mmlab/mmskeleton), and keep on developing for skeleton-based human understanding. The paper [Rethinking the ST-GCNs for 3D skeleton-based human action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221007153) published in Neurocomputing works on ST-GCN.
   
   (2021) (GCN) [Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition](https://arxiv.org/abs/2107.12213); [[code]](https://github.com/Uason-Chen/CTR-GCN).
   
-  () () []().
+  (CVPR2020) (GCN) [Skeleton-Based Action Recognition with Shift Graph Convolutional Network](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Skeleton-Based_Action_Recognition_With_Shift_Graph_Convolutional_Network_CVPR_2020_paper.pdf); [[code]](https://github.com/kchengiva/Shift-GCN).
   
-  () () []().
+  (ACCV2020) () [Decoupled Spatial-Temporal Attention Network for Skeleton-Based Action Recognition](https://arxiv.org/pdf/2007.03263v1.pdf); [[code]](https://github.com/lshiwjx/DSTA-Net).
   
-  () () []().
+  (CVPR2020) (GCN) [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](); [[code official]](https://github.com/kenziyuliu/ms-g3d); [[another code]](https://github.com/metrics-lab/st-fmri).
   
-  () () []().
+  (CVPR2019) (GCN) [Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks](https://arxiv.org/pdf/1912.06971v1.pdf); [[code official]](https://github.com/lshiwjx/2s-AGCN); [[another code]](https://github.com/iamjeff7/j-va-aagcn).
   
-  () () []().
+  (CVPR2019) (GCN) [Skeleton-Based Action Recognition With Directed Graph Neural Networks
+](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf); [[code]](https://github.com/kenziyuliu/DGNN-PyTorch).
   
-  () () []().
+  (ICPR2021) (Transformers) [Skeleton-based Action Recognition via Spatial and Temporal Transformer Networks](https://arxiv.org/pdf/2008.07404v4.pdf); [[code]](https://github.com/Chiaraplizz/ST-TR).
   
-  () () []().
+  () () [Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition](https://arxiv.org/pdf/2010.09978v1.pdf); [[official code]](https://github.com/yfsong0709/ResGCNv1); [[another code]](https://github.com/yfsong0709/EfficientGCNv1); [[another code]](https://github.com/Number9929/Gabriel_Project_ResGCNv1).
   
+  (IEEE-TIP2020) () [Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks](https://arxiv.org/pdf/1912.06971v1.pdf); [[official code]](https://github.com/lshiwjx/2s-AGCN); [[another code]](https://github.com/iamjeff7/j-va-aagcn).
   
+  () () [Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition](https://arxiv.org/pdf/2106.15125v1.pdf); [[official code]](https://github.com/yfsong0709/EfficientGCNv1); [[another code]](https://github.com/yfsong0709/ResGCNv1).
   
+  (AAAI2020) () [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://arxiv.org/pdf/1911.04131v1.pdf); [[code]](https://github.com/xiaoiker/GCN-NAS).
   
+  (2021) () [Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition](https://arxiv.org/pdf/2106.15125v1.pdf); [[official code]](https://github.com/yfsong0709/EfficientGCNv1); [[another code]](https://github.com/yfsong0709/ResGCNv1).
   
-  
-  
-  
-  
-  
-  
-  
-  
+  (arXiv 2020) () [Predictively Encoded Graph Convolutional Network for Noise-Robust Skeleton-based Action Recognition](https://arxiv.org/pdf/2003.07514v1.pdf); [[code]](https://github.com/andreYoo/PeGCNs).
   
   
   1.(2016) (RNN) [Deep LSTM + Part-Aware LSTM + NTU RGB+D dataset](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html)
