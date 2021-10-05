@@ -2,7 +2,7 @@
 
 <details>
   
-<summary>Open source softwares for pose estimation: (click to expand!)</summary>
+<summary>Human pose estimator github projects: (click to expand!)</summary>
   
   (2017-2020) [Github, AlphaPose](https://github.com/MVIG-SJTU/AlphaPose); [paper 1, Pose flow](http://bmvc2018.org/contents/papers/0096.pdf); [paper 2, crowdpose](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_CrowdPose_Efficient_Crowded_Scenes_Pose_Estimation_and_a_New_Benchmark_CVPR_2019_paper.html); [paper 3 RMPE](http://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html):  Multi-person pose estimator, achieves 70+ mAP (75 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.
   
