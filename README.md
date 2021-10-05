@@ -4,43 +4,41 @@
   
 <summary>Open source softwares for pose estimation: (click to expand!)</summary>
   
-  (2017-2018) [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose), [paper 1, Pose flow](http://bmvc2018.org/contents/papers/0096.pdf), [paper 2, crowdpose](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_CrowdPose_Efficient_Crowded_Scenes_Pose_Estimation_and_a_New_Benchmark_CVPR_2019_paper.html), [paper 3 RMPE](http://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html):  Multi-person pose estimator, achieves 70+ mAP (75 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.
+  (2017-2020) [Github, AlphaPose](https://github.com/MVIG-SJTU/AlphaPose); [paper 1, Pose flow](http://bmvc2018.org/contents/papers/0096.pdf); [paper 2, crowdpose](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_CrowdPose_Efficient_Crowded_Scenes_Pose_Estimation_and_a_New_Benchmark_CVPR_2019_paper.html); [paper 3 RMPE](http://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html):  Multi-person pose estimator, achieves 70+ mAP (75 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.
   
-  () [](), []():
+  [Github, MMPose](https://github.com/open-mmlab/mmpose): an open-source toolbox for pose estimation based on PyTorch.
   
-  [MMPose](https://github.com/open-mmlab/mmpose): an open-source toolbox for pose estimation based on PyTorch.
+  (2019-2021) [Github, OpenPifPaf](https://github.com/wangzheallen/awesome-human-pose-estimation), [paper CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Kreiss_PifPaf_Composite_Fields_for_Human_Pose_Estimation_CVPR_2019_paper.html), [arxiv paper](https://arxiv.org/abs/2103.02440): Continuously tested on Linux, MacOS and Windows. [Tutorial](https://openpifpaf.github.io/intro.html)
   
-  (2019-2021) [OpenPifPaf](https://github.com/wangzheallen/awesome-human-pose-estimation), [paper CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Kreiss_PifPaf_Composite_Fields_for_Human_Pose_Estimation_CVPR_2019_paper.html), [arxiv paper](https://arxiv.org/abs/2103.02440): Continuously tested on Linux, MacOS and Windows. [Tutorial](https://openpifpaf.github.io/intro.html)
+  (2018) Github, [Simple Baseline](https://github.com/microsoft/human-pose-estimation.pytorch), [arxive paper](https://arxiv.org/abs/1804.06208): Pytorch 0.4, python 3.6, Ubuntu 16.04, NVIDIA GPUs.
   
-  (2018) [Simple Baseline](https://github.com/microsoft/human-pose-estimation.pytorch), [arxive paper](https://arxiv.org/abs/1804.06208): Pytorch 0.4, python 3.6, Ubuntu 16.04, NVIDIA GPUs.
+  (2021) [Github, SWAHR-HumanPose](https://github.com/greatlog/SWAHR-HumanPose), [paper CVPR2021](https://arxiv.org/abs/2012.15175): 
   
-  (2021) [SWAHR-HumanPose](https://github.com/greatlog/SWAHR-HumanPose), [paper CVPR2021](https://arxiv.org/abs/2012.15175): 
+  (2018) [Github, Real-time 2D Multi-Person Pose Estimation *on CPU*: Lightweight OpenPose](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch), [arxiv paper](https://arxiv.org/abs/1811.12004): Ubuntu 16.04, Python 3.6, PyTorch 0.4.1, No GPU needed.
   
-  (2018) [Real-time 2D Multi-Person Pose Estimation *on CPU*: Lightweight OpenPose](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch), [arxiv paper](https://arxiv.org/abs/1811.12004): Ubuntu 16.04, Python 3.6, PyTorch 0.4.1, No GPU needed.
+  (2019) [Github, VideoPose3D](https://github.com/facebookresearch/VideoPose3D), [paper CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf): Python 3+ , PyTorch >= 0.4.0.
   
-  (2019) [VideoPose3D](https://github.com/facebookresearch/VideoPose3D), [paper CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf): Python 3+ , PyTorch >= 0.4.0.
+  (2020) [Github, VoxelPose:Towards Multi-Camera 3D Human Pose Estimation in Wild Environment](https://github.com/microsoft/voxelpose-pytorch), [paper ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/738_ECCV_2020_paper.php):
   
-  (2020) [VoxelPose:Towards Multi-Camera 3D Human Pose Estimation in Wild Environment](https://github.com/microsoft/voxelpose-pytorch), [paper ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/738_ECCV_2020_paper.php):
+  (2020) [Github, VIBE: Video Inference for Human Body Pose and Shape Estimation](https://github.com/mkocabas/VIBE), [paper CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kocabas_VIBE_Video_Inference_for_Human_Body_Pose_and_Shape_Estimation_CVPR_2020_paper.pdf):
   
-  (2020) [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://github.com/mkocabas/VIBE), [paper CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kocabas_VIBE_Video_Inference_for_Human_Body_Pose_and_Shape_Estimation_CVPR_2020_paper.pdf):
+  (2021) [Github, PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://github.com/jfzhang95/PoseAug), [paper CVPR2021](https://arxiv.org/abs/2105.02465):
   
-  (2021) [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://github.com/jfzhang95/PoseAug), [paper CVPR2021](https://arxiv.org/abs/2105.02465):
+  (since 2016) [Github, OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose), [paper IEEE2019](https://ieeexplore.ieee.org/abstract/document/8765346/), [paper CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/html/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.html), [paper CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/html/Simon_Hand_Keypoint_Detection_CVPR_2017_paper.html), [paper CVPR2016](http://openaccess.thecvf.com/content_cvpr_2016/html/Wei_Convolutional_Pose_Machines_CVPR_2016_paper.html): Real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
   
-  (since 2016) [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose), [paper IEEE2019](https://ieeexplore.ieee.org/abstract/document/8765346/), [paper CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/html/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.html), [paper CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/html/Simon_Hand_Keypoint_Detection_CVPR_2017_paper.html), [paper CVPR2016](http://openaccess.thecvf.com/content_cvpr_2016/html/Wei_Convolutional_Pose_Machines_CVPR_2016_paper.html): Real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
+  (2019) [Github, Cross View Fusion for 3D Human Pose Estimation](https://github.com/microsoft/multiview-human-pose-estimation-pytorch), [paper ICCV2019](https://chunyuwang.netlify.com/img/ICCV_Cross_view_camera_ready.pdf): Uses MPII,  Human36M, and Limb length prior for 3D Pose Estimation. For 2D task they use multiview training on mixed datasets (MPII+H36M) and test on H36M. For 3D task they use multiview test on H36M (based on CPU or GPU).
   
-  (2019) [Cross View Fusion for 3D Human Pose Estimation](https://github.com/microsoft/multiview-human-pose-estimation-pytorch), [paper ICCV2019](https://chunyuwang.netlify.com/img/ICCV_Cross_view_camera_ready.pdf): Uses MPII,  Human36M, and Limb length prior for 3D Pose Estimation. For 2D task they use multiview training on mixed datasets (MPII+H36M) and test on H36M. For 3D task they use multiview test on H36M (based on CPU or GPU).
+  (2021) [Github, 3D Human Pose Estimation with Spatial and Temporal Transformers](https://github.com/zczcwh/PoseFormer), [paper ICCV2021](https://arxiv.org/abs/2103.10455):
   
-  (2021) [3D Human Pose Estimation with Spatial and Temporal Transformers](https://github.com/zczcwh/PoseFormer), [paper ICCV2021](https://arxiv.org/abs/2103.10455):
+  (2020) [Github, UniPose: Unified Human Pose Estimation in Single Images and Videos](https://github.com/bmartacho/UniPose), [paper CVPR2020](https://arxiv.org/abs/2001.08095): datasets used are LSP, MPII, PennAction, and BBC Pose.  
   
-  (2020) [UniPose: Unified Human Pose Estimation in Single Images and Videos](https://github.com/bmartacho/UniPose), [paper CVPR2020](https://arxiv.org/abs/2001.08095): datasets used are LSP, MPII, PennAction, and BBC Pose.  
+  (2018) [Github, Integral Human Pose Regression](https://github.com/JimmySuen/integral-human-pose), [paper ICCV2018](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiao_Sun_Integral_Human_Pose_ECCV_2018_paper.html), [paper 2 arxiv](https://arxiv.org/abs/1809.06079): Python 3.6, tested on CentOs7 (Other Linux system is also OK), CUDA  9.0 (least 8.0), PyTorch 0.4.0.
   
-  (2018) [Integral Human Pose Regression](https://github.com/JimmySuen/integral-human-pose), [paper ICCV2018](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiao_Sun_Integral_Human_Pose_ECCV_2018_paper.html), [paper 2 arxiv](https://arxiv.org/abs/1809.06079): Python 3.6, tested on CentOs7 (Other Linux system is also OK), CUDA  9.0 (least 8.0), PyTorch 0.4.0.
+  (2021) [Github, Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://github.com/HRNet/DEKR), [CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Geng_Bottom-Up_Human_Pose_Estimation_via_Disentangled_Keypoint_Regression_CVPR_2021_paper.pdf): python 3.6 on Ubuntu 16.04. NVIDIA GPUs are needed.
   
-  (2021) [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://github.com/HRNet/DEKR), [CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Geng_Bottom-Up_Human_Pose_Estimation_via_Disentangled_Keypoint_Regression_CVPR_2021_paper.pdf): python 3.6 on Ubuntu 16.04. NVIDIA GPUs are needed.
-  
-  (2021) [HPRNet: Hierarchical Point Regression for Whole-Body Human Pose Estimation](https://github.com/nerminsamet/HPRNet), [arxiv paper](https://arxiv.org/abs/2106.04269): HPRNet is a bottom-up, one-stage and hierarchical keypoint regression method. PyTorch 1.4.0
+  (2021) [Github, HPRNet: Hierarchical Point Regression for Whole-Body Human Pose Estimation](https://github.com/nerminsamet/HPRNet), [arxiv paper](https://arxiv.org/abs/2106.04269): HPRNet is a bottom-up, one-stage and hierarchical keypoint regression method. PyTorch 1.4.0
 
-  (2020) [DarkPose:Distribution Aware Coordinate Representation for Human Pose Estimation](https://github.com/ilovepose/DarkPose) [paper CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distribution-Aware_Coordinate_Representation_for_Human_Pose_Estimation_CVPR_2020_paper.html): 2nd place entry of COCO Keypoints Challenge ICCV 2019. uses the MPII dataset.
+  (2020) [Github, DarkPose:Distribution Aware Coordinate Representation for Human Pose Estimation](https://github.com/ilovepose/DarkPose) [paper CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distribution-Aware_Coordinate_Representation_for_Human_Pose_Estimation_CVPR_2020_paper.html): 2nd place entry of COCO Keypoints Challenge ICCV 2019. uses the MPII dataset.
   
 </details>
   
