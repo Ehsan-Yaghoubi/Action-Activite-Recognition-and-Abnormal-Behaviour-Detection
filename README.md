@@ -140,7 +140,7 @@
 
   (2013) [Human3.6M](https://ieeexplore.ieee.org/abstract/document/6682899), 2-dimensional space, 10 action classes, smaller than the next ones, human labelled.
 
-  (2017) [Kinetics-Skeleton](https://arxiv.org/abs/1705.06950 ), 2-dimensional space, 400 action classes, large-scale, pose estimated, (original RGB videos).
+  (2017/2018/2020) [Kinetics-400](https://arxiv.org/abs/1705.06950), [Kinetics-600](https://arxiv.org/abs/1808.01340), [Kinetics-700](https://arxiv.org/abs/2010.10864). With 400 (/600/700) action classes with 400 (/600/700) 10-second videos for each class. Frame-level annotation. [Blug tutorial](https://towardsdatascience.com/downloading-the-kinetics-dataset-for-human-action-recognition-in-deep-learning-500c3d50f776).
 
   (2016/2019) [NTU RGB+D](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html), [NTU RGB+D 120](https://ieeexplore.ieee.org/abstract/document/8713892/). 56,880 (/57,600) videos with 60 (/120) action classes that provides 3D skeleton and RGB-D data. bounding box annotations
 
