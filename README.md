@@ -69,8 +69,9 @@
 
   7.(2017) (CNN) [Enhanced skeleton visualization for view invariant human action recognition](https://www.sciencedirect.com/science/article/pii/S0031320317300936)
 
-  8.(2018) (GCN) [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455)
+  8.(2018) (GCN) [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455); [code](https://github.com/yysijie/st-gcn): ST-GCN has transferred to [MMSkeleton](https://github.com/open-mmlab/mmskeleton), and keep on developing for skeleton-based human understanding. THe paper [Rethinking the ST-GCNs for 3D skeleton-based human action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221007153) published in Neurocomputing works on ST-GCN.
 
+  
   9.(2018) (GCN) [Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_cvpr_2018/html/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.html)
 
   10.(2019) (GCN) [Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Two-Stream_Adaptive_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html)
@@ -111,7 +112,7 @@
 
   (2021) (GCN) [Temporal Attention-Augmented Graph Convolutional Network for Efficient Skeleton-Based Human Action Recognition](https://ieeexplore.ieee.org/abstract/document/9412091)
 
-  (2021) () [Rethinking the ST-GCNs for 3D skeleton-based human action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221007153)
+
   
 </details>
 
