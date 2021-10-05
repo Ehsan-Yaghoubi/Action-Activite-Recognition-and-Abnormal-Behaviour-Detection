@@ -45,7 +45,6 @@
 (2021) () [Memory Attention Networks for Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/abstract/document/9378801)
 
 (2021) (Transformer) [Spatial Temporal Transformer Network for Skeleton-Based Action Recognition](https://link.springer.com/chapter/10.1007/978-3-030-68796-0_50)
-</details>
 
 (2021) () [Quo Vadis, Skeleton Action Recognition?](https://link.springer.com/article/10.1007/s11263-021-01470-y)
 
@@ -66,7 +65,8 @@
 (2021) (GCN) [Temporal Attention-Augmented Graph Convolutional Network for Efficient Skeleton-Based Human Action Recognition](https://ieeexplore.ieee.org/abstract/document/9412091)
 
 (2021) () [Rethinking the ST-GCNs for 3D skeleton-based human action recognition](https://www.sciencedirect.com/science/article/pii/S0925231221007153)
-
+  
+</details>
 
 <details>
 <summary>Datasets:</summary>
@@ -83,8 +83,25 @@
 
 ### RGB video-based Datasets:
 
-(2014) [UCF Sports Action Data Set](https://www.crcv.ucf.edu/data/UCF_Sports_Action.php) - 150 clips with mean length of 6sec, 10 actions, resolution 720x480 
+  (2014) [UCF Sports Action Data Set](https://www.crcv.ucf.edu/data/UCF_Sports_Action.php) - 150 clips with mean length of 6sec, 10 actions, resolution 720x480 
 
-(2019) [HOLLYWOOD2](https://www.di.ens.fr/~laptev/actions/hollywood2/) - 3669 video clips, 12 action classes and 10 classes of scenes, (20hours from 69 movies) 
+  (2019) [HOLLYWOOD2](https://www.di.ens.fr/~laptev/actions/hollywood2/) - 3669 video clips, 12 action classes and 10 classes of scenes, (20hours from 69 movies) 
 
+  (2012) [UCF-101](https://arxiv.org/abs/1212.0402). 13,320 videos from youtube; 101 action classes, frame-level annotation.
+
+  (2011) [HMDB-51](https://ieeexplore.ieee.org/document/6126543). 7000 videos from youtube, 51 action classes with at least 101 videos, frame-level annotation.
+
+  (2017/2018/2020) [Kinetics-400](https://arxiv.org/abs/1705.06950), [Kinetics-600](https://arxiv.org/abs/1808.01340), [Kinetics-700](https://arxiv.org/abs/2010.10864). With 400 (/600/700) action classes with 400 (/600/700) 10-second videos for each class. Frame-level annotation.
+
+  (2014) [Sports-1M](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.html).  1,133,158 videos, automaticaly annotated for 487 actions at video-level. Each video has a url to be downloaded from.
+  
+  (2014) [THUMOS-14](https://www.sciencedirect.com/science/article/pii/S1077314216301710). 18000 videos, 101 action classes. With trimmed training videos and untrimmed test data, and with rame-level annotation.
+  
+  (2012) [UCF-101-24](https://arxiv.org/abs/1212.0402). Originated from the UCF-101 dataset with 24 action classes annotated at the pixel-level. 
+  
+  (2013) [J-HMDB-21](https://www.cv-foundation.org/openaccess/content_iccv_2013/html/Jhuang_Towards_Understanding_Action_2013_ICCV_paper.html). Originated from the HMDB-51 dataset with 21 action classes annotated at the pixel-level.
+  
+  (2018) [AVA](https://research.google.com/ava/), [well-written paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf). 430 video clips from movies, 15 minutes each with 900 keyframes, in each of which, the persons were labeled with multiple actions. With bounding box annotation.
+  
+  (2016/2019) [NTU RGB+D](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html), [NTU RGB+D 120](https://ieeexplore.ieee.org/abstract/document/8713892/). 56,880 (/57,600) videos with 60 (/120) action classes that provides 3D skeleton and RGB-D data. bounding box annotations
 </details>
