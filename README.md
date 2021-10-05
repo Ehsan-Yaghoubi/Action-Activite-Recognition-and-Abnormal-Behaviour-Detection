@@ -6,7 +6,13 @@
   
   (2017-2020) [Github, AlphaPose](https://github.com/MVIG-SJTU/AlphaPose); [paper 1, Pose flow](http://bmvc2018.org/contents/papers/0096.pdf); [paper 2, crowdpose](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_CrowdPose_Efficient_Crowded_Scenes_Pose_Estimation_and_a_New_Benchmark_CVPR_2019_paper.html); [paper 3 RMPE](http://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html):  Multi-person pose estimator, achieves 70+ mAP (75 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.
   
-  [Github, MMPose](https://github.com/open-mmlab/mmpose): an open-source toolbox for pose estimation based on PyTorch.
+  (2020) [Github, MMPose](https://github.com/open-mmlab/mmpose); [tutorial](https://github.com/open-mmlab/mmpose/blob/master/docs/getting_started.md): an open-source toolbox for pose estimation based on PyTorch. The toolbox directly supports COCO, AIC, MPII, MPII-TRB, OCHuman, etc.
+  
+  (2017) [Github, Towards 3D Human Pose Estimation in the Wild: A Weakly-Supervised Approach](https://github.com/xingyizhou/Pytorch-pose-hg-3d); [paper ICCV2017](https://arxiv.org/abs/1704.02447): Anaconda, Python 3.6 and PyTorch v0.4.1.
+  
+  (2018) [Github, PyTorch-Pose](https://github.com/bearpaw/pytorch-pose): PyTorch implementation of the general pipeline for 2D single human pose estimation.
+  
+  (2018-2019) [Github1](https://github.com/HRNet/DEKR), [Github2, Simple Baselines for Human Pose Estimation and Tracking](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch), [Github3](https://github.com/Microsoft/human-pose-estimation.pytorch);  [paper1 ECCV2018](http://openaccess.thecvf.com/content_ECCV_2018/html/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.html), [paper2 TPAMI2019](https://ieeexplore.ieee.org/abstract/document/9052469/), [paper3 cvpr2021](http://openaccess.thecvf.com/content/CVPR2021/html/Geng_Bottom-Up_Human_Pose_Estimation_via_Disentangled_Keypoint_Regression_CVPR_2021_paper.html); [Blug tutorial](https://towardsdatascience.com/overview-of-human-pose-estimation-neural-networks-hrnet-higherhrnet-architectures-and-faq-1954b2f8b249):
   
   (2019-2021) [Github, OpenPifPaf](https://github.com/wangzheallen/awesome-human-pose-estimation), [paper CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Kreiss_PifPaf_Composite_Fields_for_Human_Pose_Estimation_CVPR_2019_paper.html), [arxiv paper](https://arxiv.org/abs/2103.02440): Continuously tested on Linux, MacOS and Windows. [Tutorial](https://openpifpaf.github.io/intro.html)
   
@@ -151,10 +157,8 @@
 <summary>Useful Links:</summary>
   
   [Pose estimation materials](https://github.com/wangzheallen/awesome-human-pose-estimation)
-  
-  [Pose estimation projects](https://github.com/topics/human-pose-estimation)
-  
-  []()
+    
+  [MMPose tutorial](https://mmpose.readthedocs.io/en/latest/tasks/2d_body_keypoint.html)
   
   []()
   
