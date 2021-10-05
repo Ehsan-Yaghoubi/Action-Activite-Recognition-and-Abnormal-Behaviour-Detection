@@ -55,7 +55,7 @@
   
   
 <details>
-<summary>Paper list:</summary>
+<summary>Skeleton-based action recognition paper list:</summary>
   
   1.(2016) (RNN) [Deep LSTM + Part-Aware LSTM + NTU RGB+D dataset](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html)
 
@@ -118,7 +118,7 @@
 <details>
 <summary>Datasets:</summary>
   
-### Skeleton-based Datasets:
+### Skeleton-based action/activity recognition datasets:
 
   (2013) [Human3.6M](https://ieeexplore.ieee.org/abstract/document/6682899), 2-dimensional space, 10 action classes, smaller than the next ones, human labelled.
 
@@ -126,7 +126,7 @@
 
   (2016/2019) [NTU RGB+D](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html), [NTU RGB+D 120](https://ieeexplore.ieee.org/abstract/document/8713892/). 56,880 (/57,600) videos with 60 (/120) action classes that provides 3D skeleton and RGB-D data. bounding box annotations
 
-### RGB video-based Datasets:
+### RGB video-based action/activity recognition datasets:
 
   (2014) [UCF Sports Action Data Set](https://www.crcv.ucf.edu/data/UCF_Sports_Action.php) - 150 clips with mean length of 6sec, 10 actions, resolution 720x480 
 
