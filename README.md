@@ -130,8 +130,6 @@
 
   (2021) (GCN) [Skeleton-based action recognition using sparse spatio-temporal GCN with edge effective resistance](https://www.sciencedirect.com/science/article/pii/S0925231220317094)
 
-  (2021) (GCN) [Predictively encoded graph convolutional network for noise-robust skeleton-based action recognition](https://link.springer.com/article/10.1007/s10489-021-02487-z)
-
   (2021) () [Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/abstract/document/9351789/)
 
   (2021) () [Symmetrical Enhanced Fusion Network for Skeleton-based Action Recognition](https://ieeexplore.ieee.org/abstract/document/9319717)
