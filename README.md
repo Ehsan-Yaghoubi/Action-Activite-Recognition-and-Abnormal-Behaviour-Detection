@@ -4,6 +4,10 @@
   
 <summary>Open source softwares for pose estimation: (click to expand!)</summary>
   
+  (2017-2018) [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose), [paper 1, Pose flow](http://bmvc2018.org/contents/papers/0096.pdf), [paper 2, crowdpose](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_CrowdPose_Efficient_Crowded_Scenes_Pose_Estimation_and_a_New_Benchmark_CVPR_2019_paper.html), [paper 3 RMPE](http://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html):  Multi-person pose estimator, achieves 70+ mAP (75 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.
+  
+  () [](), []():
+  
   [MMPose](https://github.com/open-mmlab/mmpose): an open-source toolbox for pose estimation based on PyTorch.
   
   (2019-2021) [OpenPifPaf](https://github.com/wangzheallen/awesome-human-pose-estimation), [paper CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Kreiss_PifPaf_Composite_Fields_for_Human_Pose_Estimation_CVPR_2019_paper.html), [arxiv paper](https://arxiv.org/abs/2103.02440): Continuously tested on Linux, MacOS and Windows. [Tutorial](https://openpifpaf.github.io/intro.html)
@@ -148,9 +152,9 @@
 <details>
 <summary>Useful Links:</summary>
   
-  [Pose estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
+  [Pose estimation materials](https://github.com/wangzheallen/awesome-human-pose-estimation)
   
-  []()
+  [Pose estimation projects](https://github.com/topics/human-pose-estimation)
   
   []()
   
