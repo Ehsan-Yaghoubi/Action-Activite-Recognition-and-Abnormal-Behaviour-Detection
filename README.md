@@ -12,7 +12,7 @@
   
   (2018) [Github, PyTorch-Pose](https://github.com/bearpaw/pytorch-pose): PyTorch implementation of the general pipeline for 2D single human pose estimation.
   
-  (2018-2019) [Github1, Simple Baselines for Human Pose Estimation and Tracking](https://github.com/HRNet/DEKR), [Github2](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch), [Github3](https://github.com/Microsoft/human-pose-estimation.pytorch);  [paper1 ECCV2018](http://openaccess.thecvf.com/content_ECCV_2018/html/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.html), [paper2 TPAMI2019](https://ieeexplore.ieee.org/abstract/document/9052469/), [paper3 cvpr2021](http://openaccess.thecvf.com/content/CVPR2021/html/Geng_Bottom-Up_Human_Pose_Estimation_via_Disentangled_Keypoint_Regression_CVPR_2021_paper.html); [Blug tutorial](https://towardsdatascience.com/overview-of-human-pose-estimation-neural-networks-hrnet-higherhrnet-architectures-and-faq-1954b2f8b249):
+  (2018-2019) [Github1, Simple Baselines for Human Pose Estimation and Tracking](https://github.com/HRNet/DEKR), [Github2](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch), [Github3](https://github.com/Microsoft/human-pose-estimation.pytorch);  [paper1 ECCV2018](http://openaccess.thecvf.com/content_ECCV_2018/html/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.html), [paper2 TPAMI2019](https://ieeexplore.ieee.org/abstract/document/9052469/), [paper3 cvpr2021](http://openaccess.thecvf.com/content/CVPR2021/html/Geng_Bottom-Up_Human_Pose_Estimation_via_Disentangled_Keypoint_Regression_CVPR_2021_paper.html); [Blog tutorial](https://towardsdatascience.com/overview-of-human-pose-estimation-neural-networks-hrnet-higherhrnet-architectures-and-faq-1954b2f8b249):
   
   (2019-2021) [Github, OpenPifPaf](https://github.com/wangzheallen/awesome-human-pose-estimation), [paper CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Kreiss_PifPaf_Composite_Fields_for_Human_Pose_Estimation_CVPR_2019_paper.html), [arxiv paper](https://arxiv.org/abs/2103.02440): Continuously tested on Linux, MacOS and Windows. [Tutorial](https://openpifpaf.github.io/intro.html)
   
@@ -140,7 +140,7 @@
 
   (2013) [Human3.6M](https://ieeexplore.ieee.org/abstract/document/6682899), 2-dimensional space, 10 action classes, smaller than the next ones, human labelled.
 
-  (2017/2018/2020) [Kinetics-400](https://arxiv.org/abs/1705.06950), [Kinetics-600](https://arxiv.org/abs/1808.01340), [Kinetics-700](https://arxiv.org/abs/2010.10864). With 400 (/600/700) action classes with 400 (/600/700) 10-second videos for each class. Frame-level annotation. [Blug tutorial](https://towardsdatascience.com/downloading-the-kinetics-dataset-for-human-action-recognition-in-deep-learning-500c3d50f776).
+  (2017/2018/2020) [Kinetics-400](https://arxiv.org/abs/1705.06950), [Kinetics-600](https://arxiv.org/abs/1808.01340), [Kinetics-700](https://arxiv.org/abs/2010.10864). With 400 (/600/700) action classes with 400 (/600/700) 10-second videos for each class. Frame-level annotation. [Blog tutorial](https://towardsdatascience.com/downloading-the-kinetics-dataset-for-human-action-recognition-in-deep-learning-500c3d50f776).
 
   (2016/2019) [NTU RGB+D](https://openaccess.thecvf.com/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html), [NTU RGB+D 120](https://ieeexplore.ieee.org/abstract/document/8713892/). 56,880 (/57,600) videos with 60 (/120) action classes that provides 3D skeleton and RGB-D data. bounding box annotations
 
