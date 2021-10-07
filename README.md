@@ -173,13 +173,8 @@
 
 <details>
 <summary>Useful Links:</summary>
-  
-  [Pose estimation materials](https://github.com/wangzheallen/awesome-human-pose-estimation)
     
   [MMPose tutorial](https://mmpose.readthedocs.io/en/latest/tasks/2d_body_keypoint.html)
-  
-  [Skeleton-based action recognition papers with code + Results comparison on NTU RGB+D](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd)
-  
-  [Skeleton-based action recognition datasets](https://paperswithcode.com/task/skeleton-based-action-recognition)
+
 </details>
 
